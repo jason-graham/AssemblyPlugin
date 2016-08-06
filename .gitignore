@@ -1,0 +1,10 @@
+*.suo
+/samples/ConsoleExample/bin/Debug
+/samples/ConsoleExample/obj/Debug
+/samples/Plugin/bin/Debug
+/samples/Plugin/obj/Debug
+/samples/PluginBaseLibrary/obj/Debug
+/source/AssemblyPlugin/obj/Debug
+/source/AssemblyPlugin/bin/Debug
+/samples/PluginBaseLibrary/bin/Debug
+*.user
